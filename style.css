@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+legend {
+  font-weight: bold;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"], input[type="number"] {
+  width: 200px;
+  padding: 5px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+#display-items {
+  margin-top: 20px;
+}
+
+#display-items table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#display-items th, #display-items td {
+  border: 1px solid #ec842e;
+  padding: 8px;
+}
+
+#display-items th {
+  background-color: #ffe8ab;
+}
